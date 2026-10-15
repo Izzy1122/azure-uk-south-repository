@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "Azureuksthfactoryy"
+		},
+		"FileServer1_password": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"FileServer1_properties_typeProperties_host": {
+			"value": "C:\\Users\\dell\\OneDrive\\Desktop\\Azure project\\CRM+Sales+Opportunities"
+		},
+		"FileServer1_properties_typeProperties_userId": {
+			"value": "ADFuser"
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://azureuksouthst.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}

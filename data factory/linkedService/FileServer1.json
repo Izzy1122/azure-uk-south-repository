@@ -1,0 +1,17 @@
+{
+	"name": "FileServer1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\Users\\dell\\OneDrive\\Desktop\\Azure project\\CRM+Sales+Opportunities",
+			"userId": "ADFuser",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIzOGVjZjRjNy0wYjk5LTRmNmMtODRjYi1kYmRmYTViY2U4MzYiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "OnpremisestoAzureintegrationRuntime",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

@@ -1,3 +1,19 @@
+## 🛠️ Tech Stack
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0066FF?style=for-the-badge&logo=azure-synapse-analytics&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
 📌 Overview
 
 
@@ -143,6 +159,48 @@ Pipeline Dataflow
 ![PipelineDataFlow](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/PipelineDataFlow.png)
 
 
+Pipeline Run Reports
+
+![PipelineRunReport](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/PipelineRunReport.png)
+
+
+Pipeline Activity Run Metrics. The Failed was as a result to my computer being off and Integration Runtime not being active thus Failed.
+
+![Pipeline activity run metrics](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/Pipeline%20activity%20run%20metrics.png)
+
+Filtered to my latest Manual Trigger
+
+![Pipeline activity run metrics2](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/Pipeline%20activity%20run%20metrics2.png)
+
+Triggers
+
+![Trigger](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/Trigger.png)
+
+![TriggerNow](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/TriggerNow.png)
+
+Integration Runtime
+
+![IntegrationRuntime](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/IntegrationRuntime.png)
+
+Linked Services
+
+![LinkedServices](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/LinkedServices.png)
+
+SQL VIEWS
+
+![SQLviewsAndQuery](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/SQLviewsAndQuery.png)
+
+SQL Querries
+
+![Query1](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/Query1.png)
+
+![Queryy](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/Queryy.png)
+
+PowerBI
+
+![PowerBi](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/PowerBi.png)
+
+
 🎯 Skills Demonstrated
 Cloud Engineering
 
@@ -186,3 +244,13 @@ Software Engineering
 
 📈 Project Summary
 This project shows the full workflow from raw data to analytics, including cleaning, transformation, SQL querying, and dashboard creation. It demonstrates practical Azure data engineering skills used in real cloud environments.
+
+
+# 📬 Contact
+
+**Israel Obiomah — Data Engineer/Analyst | Power BI | Python | SQL**  
+LinkedIn: [linkedin.com/in/israel-obiomah-6ba609253] 
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/izzy1122)

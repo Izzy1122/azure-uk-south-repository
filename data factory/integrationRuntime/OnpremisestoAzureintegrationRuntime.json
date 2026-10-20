@@ -1,0 +1,6 @@
+{
+	"name": "OnpremisestoAzureintegrationRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

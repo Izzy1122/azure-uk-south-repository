@@ -1,0 +1,15 @@
+{
+	"name": "Azureuksthfactoryy",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d9094745-7d34-4655-b801-863808f3a7de",
+		"tenantId": "21912c5a-b358-4696-bd0a-2a860d63612a"
+	}
+}

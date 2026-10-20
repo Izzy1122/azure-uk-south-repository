@@ -186,6 +186,13 @@ Linked Services
 
 ![LinkedServices](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/LinkedServices.png)
 
+
+DataBricks (Notebook and Compute)
+
+![compute](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/compute.png)
+
+![DataBricks](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/DataBricks.png)
+
 SQL VIEWS
 
 ![SQLviewsAndQuery](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/SQLviewsAndQuery.png)
@@ -195,6 +202,8 @@ SQL Querries
 ![Query1](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/Query1.png)
 
 ![Queryy](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/Queryy.png)
+
+![Query4](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/Query4.png)
 
 PowerBI
 

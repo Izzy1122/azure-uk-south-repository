@@ -145,19 +145,21 @@ Cloud Engineering
 
 • ADLS Gen2
 
-• Databricks notebooks
+• Azure Databricks 
 
-• Synapse Serverless SQL
+• Azure Synapse Serverless SQL
 
 • Managed Identity authentication
 
 Data Engineering
 
-• ETL pipeline design
+• Multi‑dataset ingestion
 
 • Data cleaning and transformation
 
 • CSV processing
+
+• Schema validation
 
 • SQL view creation
 

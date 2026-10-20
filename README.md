@@ -164,7 +164,7 @@ Pipeline Run Reports
 ![PipelineRunReport](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/PipelineRunReport.png)
 
 
-Pipeline Activity Run Metrics. The Failed was as a result to my computer being off and Integration Runtime not being active thus Failed.
+Pipeline Activity Run Metrics. The Failed was as a result of my computer being off and Microsoft Integration Runtime Configuration Manager being disabled thus the Failed Scheduled Pipeline Run
 
 ![Pipeline activity run metrics](https://raw.githubusercontent.com/Izzy1122/azure-uk-south-repository/refs/heads/dev/Screenshots/Pipeline%20activity%20run%20metrics.png)
 
@@ -257,7 +257,7 @@ This project shows the full workflow from raw data to analytics, including clean
 
 # 📬 Contact
 
-**Israel Obiomah — Data Engineer/Analyst | Power BI | Python | SQL**  
+**Israel Obiomah — Data Engineer/Analyst 
 LinkedIn: [linkedin.com/in/israel-obiomah-6ba609253] 
 
 
